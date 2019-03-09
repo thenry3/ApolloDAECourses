@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8301e533-8bda-4ff7-be66-b429be7c0295" name="Default Changelist" comment="3/6/19&#10;&#10;Git Lesson">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8301e533-8bda-4ff7-be66-b429be7c0295" name="Default Changelist" comment="3/6/19&#10;&#10;Git Lesson" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -57,8 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1460" />
-    <option name="y" value="40" />
+    <option name="x" value="1350" />
+    <option name="y" value="132" />
     <option name="width" value="2298" />
     <option name="height" value="2000" />
   </component>
@@ -115,7 +113,7 @@
       <workItem from="1551860565736" duration="181000" />
       <workItem from="1551860760160" duration="2200000" />
       <workItem from="1551981277542" duration="323000" />
-      <workItem from="1552066824394" duration="431000" />
+      <workItem from="1552066824394" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="3/6/19&#10;&#10;Git Lesson">
       <created>1551861051665</created>
@@ -128,10 +126,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3410000" />
+    <option name="totallyTimeSpent" value="4007000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="730" y="20" width="1149" height="1000" extended-state="0" />
+    <frame x="675" y="66" width="1149" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22192273" />
