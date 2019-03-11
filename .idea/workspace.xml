@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8301e533-8bda-4ff7-be66-b429be7c0295" name="Default Changelist" comment="3/6/19&#10;&#10;Git Lesson" />
+    <list default="true" id="8301e533-8bda-4ff7-be66-b429be7c0295" name="Default Changelist" comment="3/6/19&#10;&#10;Git Lesson">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/test.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Git/index.html">
+        <entry file="file://$PROJECT_DIR$/HTML/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Git/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -36,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,12 +45,13 @@
         <option value="$PROJECT_DIR$/feature-a.js" />
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/HTML/test.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1350" />
-    <option name="y" value="132" />
+    <option name="x" value="1478" />
+    <option name="y" value="92" />
     <option name="width" value="2298" />
     <option name="height" value="2000" />
   </component>
@@ -119,7 +114,8 @@
       <workItem from="1551860760160" duration="2200000" />
       <workItem from="1551981277542" duration="323000" />
       <workItem from="1552066824394" duration="1028000" />
-      <workItem from="1552152372459" duration="627000" />
+      <workItem from="1552152372459" duration="907000" />
+      <workItem from="1552324225294" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="3/6/19&#10;&#10;Git Lesson">
       <created>1551861051665</created>
@@ -132,10 +128,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4634000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="66" width="1149" height="1000" extended-state="0" />
+    <frame x="739" y="46" width="1149" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22192273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,6 +188,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
