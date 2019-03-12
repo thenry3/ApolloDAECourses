@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8301e533-8bda-4ff7-be66-b429be7c0295" name="Default Changelist" comment="3/6/19&#10;&#10;Git Lesson">
-      <change afterPath="$PROJECT_DIR$/HTML/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/downloads/PeanutNutrition.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/prices/PeanutButterPrices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/how-to.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/PeanutButterBanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Images/PeanutButterBanner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            <state relative-caret-position="317">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/how-to.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -32,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/prices/PeanutButterPrices.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -71,6 +77,7 @@
         <option value="$PROJECT_DIR$/HTML/contact.html" />
         <option value="$PROJECT_DIR$/HTML/prices/PeanutButterPrices.html" />
         <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/HTML/how-to.html" />
       </list>
     </option>
   </component>
@@ -151,7 +158,7 @@
       <workItem from="1552066824394" duration="1028000" />
       <workItem from="1552152372459" duration="907000" />
       <workItem from="1552324225294" duration="3571000" />
-      <workItem from="1552412101833" duration="2105000" />
+      <workItem from="1552412101833" duration="2633000" />
     </task>
     <task id="LOCAL-00001" summary="3/6/19&#10;&#10;Git Lesson">
       <created>1551861051665</created>
@@ -164,7 +171,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10590000" />
+    <option name="totallyTimeSpent" value="11118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="985" y="11" width="921" height="1000" extended-state="0" />
@@ -237,17 +244,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/prices/PeanutButterPrices.html">
+    <entry file="file://$PROJECT_DIR$/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="317">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/index.html">
+    <entry file="file://$PROJECT_DIR$/HTML/prices/PeanutButterPrices.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/how-to.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
